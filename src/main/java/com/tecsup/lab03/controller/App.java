@@ -1,7 +1,7 @@
 package com.tecsup.lab03.controller;
 
 /**
- * Hello world!
+ * Hello world!  :)
  *
  */
 public class App 
