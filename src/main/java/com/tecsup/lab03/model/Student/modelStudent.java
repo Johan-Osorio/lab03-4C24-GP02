@@ -1,4 +1,4 @@
-package com.tecsup.lab3.model.Student;
+package com.tecsup.lab03.model.Student;
 
 public class modelStudent {
 	

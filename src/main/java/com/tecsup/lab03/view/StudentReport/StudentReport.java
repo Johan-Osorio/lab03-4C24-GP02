@@ -1,4 +1,4 @@
-package com.tecsup.lab3.view.StudentReport;
+package com.tecsup.lab03.view.StudentReport;
 
 public class StudentReport {
 	
