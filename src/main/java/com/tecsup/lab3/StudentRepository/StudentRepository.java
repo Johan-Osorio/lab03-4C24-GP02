@@ -1,4 +1,4 @@
-package com.tecsup.lab03.StudentRepository;
+package com.tecsup.lab3.StudentRepository;
 
 public class StudentRepository {
 
